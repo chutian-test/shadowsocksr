@@ -1,1 +1,1 @@
-nohup /usr/bin/python3 /opt/shadowsocksr/shadowsocks/local.py -c /opt/shadowsocksr/user_config.json &
+nohup /usr/bin/python3 /opt/shadowsocksr/shadowsocks/server.py -c /opt/shadowsocksr/user_config.json &
